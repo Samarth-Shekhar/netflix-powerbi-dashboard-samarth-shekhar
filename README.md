@@ -11,7 +11,7 @@ This project was created as a **practice/learning clone** to understand Power BI
 
 ## Preview
 
-(Add a screenshot of your Power BI dashboard here)
+![Netflix Power BI Dashboard](dashboard.png)
 
 ---
 
